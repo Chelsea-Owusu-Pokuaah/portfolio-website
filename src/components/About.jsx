@@ -124,7 +124,7 @@ export function About() {
               Download CV (PDF)
             </a>
             <p className="mt-2 text-xs text-text-muted">
-              Replace this link with your actual resume URL when available.
+              Not currently available
             </p>
           </div>
         </aside>

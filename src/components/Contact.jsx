@@ -129,8 +129,7 @@ export function Contact() {
             )}
           </form>
           <p className="mt-3 text-xs text-text-muted">
-            Note: Replace the form action URL with your actual FormSubmit,
-            Formspree, or Web3Forms endpoint.
+            Not currently available
           </p>
         </div>
 
